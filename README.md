@@ -1,2 +1,3 @@
 # ajay-demo
-this is my Git Repository
+This is my Git Repository
+Author - Ajay Hacker
